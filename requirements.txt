@@ -1,0 +1,36 @@
+#LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-google-genai
+python-dotenv ##Loads environment variables from a .env file into the environment
+
+#LangGraph
+langgraph
+langsmith
+langchain_tavily
+tavily-python
+tavily-python
+
+#mcp
+langchain-mcp-adapters
+mcp
+
+#Vectorless-rag
+pageindex
+
+#Deep Agents
+deepagents
+
+
+#evaluation
+openai
+beautifulsoup4
+pandas
+
+#llm gateways
+litellm 
+fastapi
+langchain-litellm
+soundfile
