@@ -19,7 +19,7 @@ The examples cover these stages:
 4. **Add reliability and safety** — explore LLM gateways for provider routing, fallbacks, caching, and observability, along with guardrails such as input/output checks, PII handling, and human approval.
 5. **Retrieve and evaluate knowledge** — build a document question-answering flow with PageIndex's tree-based retrieval approach, then evaluate chatbot and RAG responses with datasets and metrics using LangSmith.
 
-These stages are demonstrated in separate notebooks and examples; they are learning modules rather than one automatically running application. The `src/agentic_ai` package contains a small MCP-enabled agent entry point.
+These stages are demonstrated in separate notebooks and examples.
 
 ## Repository map
 
